@@ -1,4 +1,4 @@
-[![masterhead][https://www.pngwing.com/en/search?q=hacker]
+[![masterhead](https://www.pngwing.com/en/free-png-bpqfb)]
 <h1 align="center">Hi 👋, I'm Wasiu oke</h1>
 <h3 align="center">A passionate cyber security Analyst</h3>
 
